@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<link href="../Unidad 02/Templates 2/EstiloPlantillaEjercicio.css" rel="stylesheet" type="text/css">
+<body>
+<section id="encabezado">
+	<header>
+	<img src="../Unidad 02/imagen1/banner-restaurante02.jpg" alt="Banner Restaurant" id="logoimagen">
+    <h2>Inicio</h2>
+    </header>
+    <section id="contenedor">
+    <nav>
+    <ul id="Menu">
+            	<li><a href="../NUESTRA HISTORIA.html">Nuestra Historia</a></li>
+                <li><a href="../comentarios.html">Comentarios</a></li>
+                <li><a href="../articulo.html">Articulos</a></li>
+                <li><a href="../eventos especiales.html">Eventos Especiales</a></li>
+                <li><a href="../menu.html">Menu</a></li>
+                <li><a href="../ubicacion.html">Ubicacion</a></li>
+                <li><a href="../contactanos.html">Contactenos</a></li>
+              </ul>
+        </nav>
+        <section id="cuerpo"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable -->
+    </section>
+    </section>
+    
+   <footer>
+   	<h4>Todos los derechos reservados</h4>
+   </footer>
+
+</body>
+</html>
